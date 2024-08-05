@@ -22,6 +22,10 @@
 		"core-js": "^3.31.0",
 		"gulp": "^4.0.2",
 		"webpack": "^5.86.0",
-		"webpack-stream": "^7.0.0"
+		"webpack-stream": "latest"
+	},
+	"dependencies": {
+		"jquerry": "^0.0.1-security",
+		"slick-carousel": "^1.8.1"
 	}
 }
